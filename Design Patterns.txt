@@ -1,0 +1,15 @@
+
+Abraham selected as famous president of the states
+please remember this
+Abraham: A ante abstract factory
+Selected: S ante singleton
+Famous: F ante factory
+President: P ante prototype 
+Abraham: B ante build
+e 5 creational patterns
+
+Solid Principles:
+
+S --
+O --
+L -- Liscov Principle
